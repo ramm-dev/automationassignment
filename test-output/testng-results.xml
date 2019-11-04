@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="5399" started-at="2019-11-03T23:23:11Z" finished-at="2019-11-03T23:23:16Z">
+    <groups>
+    </groups>
+    <test name="TechAssignmentAPI" duration-ms="5399" started-at="2019-11-03T23:23:11Z" finished-at="2019-11-03T23:23:16Z">
+      <class name="com.testcase.CategoryDetailsTestcase">
+        <test-method status="PASS" signature="getData()[pri:0, instance:com.testcase.CategoryDetailsTestcase@6a5fc7f7]" name="getData" is-config="true" duration-ms="4220" started-at="2019-11-03T23:23:11Z" finished-at="2019-11-03T23:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="validateDescription()[pri:0, instance:com.testcase.CategoryDetailsTestcase@6a5fc7f7]" name="validateDescription" duration-ms="1108" started-at="2019-11-03T23:23:15Z" description="AC3: Verifying whether element with Name &#039;Gallery&#039; has a Description that contains the text &#039;2x larger image&#039;" finished-at="2019-11-03T23:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDescription -->
+        <test-method status="PASS" signature="validateListFlag()[pri:0, instance:com.testcase.CategoryDetailsTestcase@6a5fc7f7]" name="validateListFlag" duration-ms="20" started-at="2019-11-03T23:23:16Z" description="AC2: Verifying the list flagging is enabled" finished-at="2019-11-03T23:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateListFlag -->
+        <test-method status="PASS" signature="validateName()[pri:0, instance:com.testcase.CategoryDetailsTestcase@6a5fc7f7]" name="validateName" duration-ms="19" started-at="2019-11-03T23:23:16Z" description="AC1: Verifying the Name" finished-at="2019-11-03T23:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateName -->
+      </class> <!-- com.testcase.CategoryDetailsTestcase -->
+    </test> <!-- TechAssignmentAPI -->
+  </suite> <!-- Default Suite -->
+</testng-results>
